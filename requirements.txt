@@ -1,0 +1,13 @@
+matplotlib
+scikit-learn
+scipy
+pandas
+numpy
+plotly
+statsmodels
+xgboost
+seaborn
+ace_tools
+tensorflow-macos
+tensorflow-metal
+keras-tuner
