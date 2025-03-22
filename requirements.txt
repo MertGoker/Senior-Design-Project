@@ -11,3 +11,4 @@ ace_tools
 tensorflow-macos
 tensorflow-metal
 keras-tuner
+openpyxl
